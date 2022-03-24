@@ -19,7 +19,7 @@
     "gatsby": "^3.5.0",
     "gatsby-plugin-google-analytics": "^3.5.0",
     "gatsby-plugin-html-comments": "^1.0.0",
-    "gatsby-plugin-netlify-cms": "^5.5.0",
+    "gatsby-plugin-netlify-cms": "^6.4.0",
     "gatsby-plugin-react-helmet": "^4.5.0",
     "gatsby-plugin-sass": "^4.5.0",
     "gatsby-plugin-sharp": "^3.5.0",
